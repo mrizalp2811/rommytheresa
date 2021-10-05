@@ -1,9 +1,9 @@
-FROM composer:1.9.0 as build
+FROM composer:2.0 as build
 WORKDIR /app
 COPY . /app
-RUN composer global require hirak/prestissimo && composer install
+RUN composer install
 
-FROM php:7.3-apache-stretch
+FROM php:8.0.11-apache-bullseye
 RUN docker-php-ext-install pdo pdo_mysql
 
 EXPOSE 8080
