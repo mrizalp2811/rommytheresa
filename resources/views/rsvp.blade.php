@@ -8,12 +8,11 @@
     <meta charSet="utf-8" />
     <title>Rommy Darmawan and Theresa Aldeva&#x27;s Wedding Website</title>
     <meta name="description" content="Welcome to Rommy Darmawan and Theresa Aldeva&#x27;s Wedding. We hope, you can celebrate together with us on our special day." />
-    <link rel="canonical" href="/" />
-    <meta property="og:url" content="" />
     <meta property="og:title" content="Rommy Darmawan and Theresa Aldeva&#x27;s Wedding Website" />
     <meta property="og:description" content="Welcome to Rommy Darmawan and Theresa Aldeva&#x27;s Wedding. We hope, you can celebrate together with us on our special day." />
     <meta property="og:image" content="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_0-cr_0.363.1065.896?compress=true" />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rommytheresa.com/rsvp" />
     <link rel="icon" type="image/x-icon" href="https://static.theknot.com/wws-guest-view/_next/static/favicon.ico" />
     <meta name="next-head-count" content="11" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -194,7 +193,7 @@
                 color: #405262;
               }
             </style>
-            <p class="css-q9306j">Please make sure you&#x27;re in good health to attend. If you feel unwell, just stay at home. All guests attending are required to wear mask and bring the QR Code RSVP. Thankyou for your understanding and we wish you all good health. We really appreciate your support and blessings.</p>
+            <p class="css-q9306j">Please make sure you&#x27;re in good health to attend. If you feel unwell, just stay at home. All guests attending are required to wear mask and bring the QR Code RSVP. Thank you for your understanding and we wish you all good health. We really appreciate your support and blessings.</p>
           </div>
           <style data-emotion-css="ijz497">
             .css-ijz497 {
@@ -360,7 +359,7 @@
             }
           </style>
           <div class="css-1mwsfpw">
-            <p class="css-q9306j">Please make sure you&#x27;re in good health to attend. If you feel unwell, just stay at home. All guests attending are required to wear mask and bring the QR Code RSVP. Thankyou for your understanding and we wish you all good health. We really appreciate your support and blessings.</p>
+            <p class="css-q9306j">Please make sure you&#x27;re in good health to attend. If you feel unwell, just stay at home. All guests attending are required to wear mask and bring the QR Code RSVP. Thank you for your understanding and we wish you all good health. We really appreciate your support and blessings.</p>
           </div>
           <style data-emotion-css="2yc937">
             .css-2yc937 {
