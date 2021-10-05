@@ -13,7 +13,7 @@
     <meta name="description" content="Welcome to Rommy Darmawan and Theresa Aldeva&#x27;s Wedding Website!" />
     <meta property="og:title" content="Rommy Darmawan and Theresa Aldeva&#x27;s Wedding Website" />
     <meta property="og:description" content="Welcome to Rommy Darmawan and Theresa Aldeva&#x27;s Wedding Website!" />
-    <meta property="og:image" content="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_0-cr_0.363.1065.896?compress=true" />
+    <meta property="og:image" content="assets/img/icon-main.jpg" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rommytheresa.com/photos" />
     <link rel="icon" type="image/x-icon" href="https://static.theknot.com/wws-guest-view/_next/static/favicon.ico" />
