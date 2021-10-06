@@ -19,19 +19,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/main.css" data-n-g="" />
  
-    <link rel="preload" href="assets/css/_app.f3a493ad7cd1be131c9c.css" as="style" />
     <link rel="stylesheet" href="assets/css/_app.f3a493ad7cd1be131c9c.css" data-n-g="" />
     <noscript data-n-css=""></noscript>
-    <link rel="preload" href="assets/js/main-6cf424dc656e4cce3a97.js" as="script" />
-    <link rel="preload" href="assets/js/webpack-7675728062cc2e40daca.js" as="script" />
-    <link rel="preload" href="assets/js/framework.92982bd08c20a57f256c.js" as="script" />
-    <link rel="preload" href="assets/js/commons.e8825c204e22661c36e1.js" as="script" />
-    <link rel="preload" href="assets/js/b5d9182fe27958a87aeb8cde66a6d0f7ed6e8bb0.936904b2efc1abf4dee0.js" as="script" />
-    <link rel="preload" href="assets/js/1a315c15a13fed08c83a7623d996d48e437839c8.321367ab509b096f25e6.js" as="script" />
-    <link rel="preload" href="assets/js/pages/_app-51e404d2a46892f63a7e.js" as="script" />
-    <link rel="preload" href="assets/js/29107295.9bfd529e3423c89519ae.js" as="script" />
-    <link rel="preload" href="assets/js/8e131c8851dfc0e2121930b9e0443eadd3e2b49a.e718cd79d05d1d5c58fb.js" as="script" />
-    <link rel="preload" href="assets/js/pages/%5bpathPrefix%5d/%5bslug%5d/%5b%5b...route%5d%5d-1fa7068d86ec8cd2113c.js" as="script" />
   </head>
   <body>
       <div class="css-1oteowz">
@@ -1185,19 +1174,6 @@
 	<script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
     <script src="assets/js/lightbox.min.js"></script>
-    <script nomodule="" src="assets/js/polyfills-b5dd53bde2b4c072fee5.js"></script> 
-    <script src="assets/js/main-6cf424dc656e4cce3a97.js" async=""></script>
-    <script src="assets/js/webpack-7675728062cc2e40daca.js" async=""></script>
-    <script src="assets/js/framework.92982bd08c20a57f256c.js" async=""></script>
-    <script src="assets/js/commons.e8825c204e22661c36e1.js" async=""></script>
-    <script src="assets/js/b5d9182fe27958a87aeb8cde66a6d0f7ed6e8bb0.936904b2efc1abf4dee0.js" async=""></script>
-    <script src="assets/js/1a315c15a13fed08c83a7623d996d48e437839c8.321367ab509b096f25e6.js" async=""></script>
-    <script src="assets/js/pages/_app-51e404d2a46892f63a7e.js" async=""></script>
-    <script src="assets/js/29107295.9bfd529e3423c89519ae.js" async=""></script>
-    <script src="assets/js/8e131c8851dfc0e2121930b9e0443eadd3e2b49a.e718cd79d05d1d5c58fb.js" async=""></script>
-    <script src="assets/js/pages/%5bpathPrefix%5d/%5bslug%5d/%5b%5b...route%5d%5d-1fa7068d86ec8cd2113c.js" async=""></script>
-    <script src="assets/js/Ozi5C7syRrzIOZkdAk-GN/_buildManifest.js" async=""></script>
-    <script src="assets/js/Ozi5C7syRrzIOZkdAk-GN/_ssgManifest.js" async=""></script>
     <script src="assets/js/google_script_form_ajax.js"> </script>
             
   </body>
