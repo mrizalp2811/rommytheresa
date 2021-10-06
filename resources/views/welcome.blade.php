@@ -18,7 +18,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/main.css" data-n-g="" />
  
-    <link rel="preload" href="assets/css/_app.f3a493ad7cd1be131c9c.css" as="style" />
     <link rel="stylesheet" href="assets/css/_app.f3a493ad7cd1be131c9c.css" data-n-g="" />
   </head>
   <body>

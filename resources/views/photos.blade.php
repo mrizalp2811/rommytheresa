@@ -22,8 +22,7 @@
     <link rel="stylesheet" href="assets/css/main.css" data-n-g="" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
 
- 
-    <link rel="preload" href="assets/css/_app.f3a493ad7cd1be131c9c.css" as="style" />
+
     <link rel="stylesheet" href="assets/css/_app.f3a493ad7cd1be131c9c.css" data-n-g="" />
   </head>
   <body>
