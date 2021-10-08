@@ -10,7 +10,7 @@
     <meta name="description" content="Welcome to Rommy Darmawan and Theresa Aldeva&#x27;s Wedding. We hope, you can celebrate together with us on our special day." />
     <meta property="og:title" content="Rommy Darmawan and Theresa Aldeva" />
     <meta property="og:description" content="Welcome to Rommy Darmawan and Theresa Aldeva&#x27;s Wedding. We hope, you can celebrate together with us on our special day." />
-    <meta property="og:image" content="assets/img/icon-main.jpg" />
+    <meta property="og:image" content="assets/img/main-cover.jpeg" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://rommytheresa.com" />
     <link rel="icon" type="image/x-icon" href="https://static.theknot.com/wws-guest-view/_next/static/favicon.ico" />
@@ -111,19 +111,19 @@
               }
             </style>
             <picture data-testid="cover-photo" class="css-1ago99h">
-              <source media="(min-resolution: 192dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1280px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_2560.h?ordering=explicit" />
-              <source media="(min-resolution: 192dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1024px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_2048.h?ordering=explicit" />
-              <source media="(min-resolution: 192dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1536.h?ordering=explicit" />
-              <source media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1200.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1280px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1920.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1024px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1536.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 768px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1152.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_900.h?ordering=explicit" />
-              <source media="(min-width: 1280px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1280.h?ordering=explicit" />
-              <source media="(min-width: 1024px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1024.h?ordering=explicit" />
-              <source media="(min-width: 768px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_768.h?ordering=explicit" />
-              <source srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_600.h?ordering=explicit" />
-              <img loading="eager" alt="Rommy &amp; Theresa Home Page Banner" width="1065" height="533" src="http://media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_768.h?ordering=explicit" class="css-1ago99h" />
+              <source media="(min-resolution: 192dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1280px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 192dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1024px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 192dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1280px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1024px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 768px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-width: 1280px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-width: 1024px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-width: 768px)" srcSet="assets/img/main-cover.jpeg" />
+              <source srcSet="assets/img/main-cover.jpeg" />
+              <img loading="eager" alt="Rommy &amp; Theresa Home Page Banner" width="1065" height="533" src="assets/img/main-cover.jpeg" class="css-1ago99h" />
             </picture>
           </div>
           <style data-emotion-css="1afrw90">
@@ -806,19 +806,19 @@
           </style>
           <div class="css-1nty0t2">
             <picture data-testid="cover-photo" class="css-1ago99h">
-              <source media="(min-resolution: 192dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1280px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_2560.h?ordering=explicit" />
-              <source media="(min-resolution: 192dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1024px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_2048.h?ordering=explicit" />
-              <source media="(min-resolution: 192dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1536.h?ordering=explicit" />
-              <source media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1200.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1280px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1920.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1024px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1536.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 768px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1152.h?ordering=explicit" />
-              <source media="(min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_900.h?ordering=explicit" />
-              <source media="(min-width: 1280px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1280.h?ordering=explicit" />
-              <source media="(min-width: 1024px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_1024.h?ordering=explicit" />
-              <source media="(min-width: 768px)" srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_768.h?ordering=explicit" />
-              <source srcSet="//media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_600.h?ordering=explicit" />
-              <img loading="eager" alt="Rommy &amp; Theresa Home Page Banner" width="1065" height="533" src="http://media.xogrp.com/images/1dc34119-81ef-45bc-98f6-8f992e06d256~rt_auto-cr_0.363.1065.896-rs_768.h?ordering=explicit" class="css-1ago99h" />
+              <source media="(min-resolution: 192dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1280px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 192dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 1024px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 192dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi) and (min-width: 1280px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1280px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi) and (min-width: 1024px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1024px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi) and (min-width: 768px),(-webkit-min-device-pixel-ratio: 1.5) and (min-width: 768px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-width: 1280px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-width: 1024px)" srcSet="assets/img/main-cover.jpeg" />
+              <source media="(min-width: 768px)" srcSet="assets/img/main-cover.jpeg" />
+              <source srcSet="assets/img/main-cover.jpeg" />
+              <img loading="eager" alt="Rommy &amp; Theresa Home Page Banner" width="1065" height="533" src="assets/img/main-cover.jpeg" class="css-1ago99h" />
             </picture>
           </div>
           <style data-emotion-css="iex2id">
